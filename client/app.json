@@ -1,0 +1,12 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#238efa",
+    "navigationBarTitleText": "七牛图片上传",
+    "navigationBarTextStyle":"light"
+  }
+}
